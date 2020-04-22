@@ -2,7 +2,7 @@
 04/17/2020
 
 ### Project Title
-Bike share project
+Bikeshare project
 
 ### Description
 The bike share project consisted on building a program that could interact with any outside user and provide him/her with the information about the use of shared bikes in the cities of washington, chicago and new york. Among other information, the program should be able to tell most used start and end station, sum of the time people travelled, the most frequent day of the week to travel.
