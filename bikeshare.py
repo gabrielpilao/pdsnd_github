@@ -224,7 +224,7 @@ def display_data(df):
         elif raw_data == 'no':
             break
 
-
+#Uniting all functions in one
 def main():
     while True:
         city, month, weekday = get_filters()
